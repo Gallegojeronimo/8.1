@@ -1,0 +1,22 @@
+/* Temas del segundo período*/
+
+.texto{
+   
+    font-size: 50px;
+    padding-top: 140px;
+    text-align: justify;
+    color: rgb(250, 248, 255);
+}
+.principal{
+   display: flex;
+     
+}
+body{
+    background-image: url("fondo.jpg");
+  
+
+}
+.Titulo{
+font-size: 50px;
+text-align: center;
+}
