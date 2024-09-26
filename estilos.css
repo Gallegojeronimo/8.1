@@ -244,3 +244,31 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     background-image:url(MAPA\ MENTAL.pdf);
     background-repeat: no-repeat;
 }
+.img40{ 
+
+    height: 1000px;
+    width: 1000px;
+    background-image:url(recuperacion.jpeg);
+    background-repeat: no-repeat;
+}
+.img41{ 
+
+    height: 1000px;
+    width: 1000px;
+    background-image:url(recuperacion2.jpeg);
+    background-repeat: no-repeat;
+}
+.img42{ 
+
+    height: 1000px;
+    width: 1200px;
+    background-image:url(recuperacion3.jpeg);
+    background-repeat: no-repeat;
+}.img43{ 
+
+    height: 1300px;
+    width: 1000px;
+    background-image:url(recuperacion4.jpeg);
+    background-repeat: no-repeat;
+}
+
